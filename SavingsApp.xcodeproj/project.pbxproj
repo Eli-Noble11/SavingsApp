@@ -15,6 +15,8 @@
 		2E20BE0A2640FD78000D6494 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E20BE082640FD78000D6494 /* LaunchScreen.storyboard */; };
 		2E20BE152640FD79000D6494 /* SavingsAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E20BE142640FD79000D6494 /* SavingsAppTests.swift */; };
 		2E20BE202640FD79000D6494 /* SavingsAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E20BE1F2640FD79000D6494 /* SavingsAppUITests.swift */; };
+		2E20BE3026410259000D6494 /* ADDViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E20BE2F26410259000D6494 /* ADDViewController.swift */; };
+		2E20BE34264106E5000D6494 /* HOMEViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E20BE33264106E5000D6494 /* HOMEViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		2E20BE1B2640FD79000D6494 /* SavingsAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SavingsAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E20BE1F2640FD79000D6494 /* SavingsAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavingsAppUITests.swift; sourceTree = "<group>"; };
 		2E20BE212640FD79000D6494 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2E20BE2F26410259000D6494 /* ADDViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ADDViewController.swift; sourceTree = "<group>"; };
+		2E20BE33264106E5000D6494 /* HOMEViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HOMEViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				2E20BDFD2640FD75000D6494 /* AppDelegate.swift */,
 				2E20BDFF2640FD75000D6494 /* SceneDelegate.swift */,
 				2E20BE012640FD75000D6494 /* ViewController.swift */,
+				2E20BE2F26410259000D6494 /* ADDViewController.swift */,
+				2E20BE33264106E5000D6494 /* HOMEViewController.swift */,
 				2E20BE032640FD75000D6494 /* Main.storyboard */,
 				2E20BE062640FD78000D6494 /* Assets.xcassets */,
 				2E20BE082640FD78000D6494 /* LaunchScreen.storyboard */,
@@ -260,6 +266,8 @@
 			files = (
 				2E20BE022640FD75000D6494 /* ViewController.swift in Sources */,
 				2E20BDFE2640FD75000D6494 /* AppDelegate.swift in Sources */,
+				2E20BE3026410259000D6494 /* ADDViewController.swift in Sources */,
+				2E20BE34264106E5000D6494 /* HOMEViewController.swift in Sources */,
 				2E20BE002640FD75000D6494 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

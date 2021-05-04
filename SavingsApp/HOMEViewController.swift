@@ -1,0 +1,20 @@
+//
+//  HOMEViewController.swift
+//  SavingsApp
+//
+//  Created by Loaner on 5/4/21.
+//
+
+import UIKit
+
+class HOMEViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        // Do any additional setup after loading the view.
+    }
+    
+
+
+}
